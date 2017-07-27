@@ -1,0 +1,14 @@
+// Colors
+// $brand-primary:         #27ae60;
+
+$primary-color: color("light-green", "darken-1");
+$primary-color-light: lighten($primary-color, 15%);
+$primary-color-dark: darken($primary-color, 15%);
+
+$secondary-color: color("light-green", "darken-1");
+$success-color: color("green", "base");
+$error-color: color("red", "base");
+$link-color: color("light-blue", "darken-1");
+
+// Fonts
+$roboto-font-path: "../fonts/roboto/";
